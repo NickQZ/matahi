@@ -1,2 +1,2 @@
-# matahi
+# Matahi
 Matahi Historical Society project
